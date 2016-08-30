@@ -1,0 +1,9 @@
+$param-spacing: 5px;//all spacing settings
+$param-spirit3-spacing: 10px; //home spacing settings
+$param-repeat: no-repeat; //all repeat settings
+$param-layout: horizontal; //all layout settings
+$param-sprite-dimensions: true; //Open size settings
+
+@import "compass/utilities/sprites";
+@import "param/*.png";
+@include all-param-sprites;

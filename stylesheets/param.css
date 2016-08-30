@@ -1,0 +1,33 @@
+.param-sprite, .param-spirit1, .param-spirit2, .param-spirit3, .param-spirit4, .param-spirit5 {
+  background: url('../images/param-s6e7b00eed6.png') no-repeat;
+}
+
+.param-spirit1 {
+  background-position: 0 0;
+  height: 104px;
+  width: 104px;
+}
+
+.param-spirit2 {
+  background-position: -109px 0;
+  height: 104px;
+  width: 104px;
+}
+
+.param-spirit3 {
+  background-position: -223px 0;
+  height: 104px;
+  width: 104px;
+}
+
+.param-spirit4 {
+  background-position: -337px 0;
+  height: 104px;
+  width: 104px;
+}
+
+.param-spirit5 {
+  background-position: -446px 0;
+  height: 104px;
+  width: 104px;
+}

@@ -1,0 +1,5 @@
+@import "compass/utilities/sprites";
+@import "icon/*.png";
+.spirit3 {
+    @include icon-sprite(spirit3);
+}

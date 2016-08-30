@@ -1,0 +1,27 @@
+.icon-sprite, .icon-spirit1, .icon-spirit2, .icon-spirit3, .icon-spirit4, .icon-spirit5, .icon-spirit6 {
+  background: url('../images/icon-s5039fcecdd.png') no-repeat;
+}
+
+.icon-spirit1 {
+  background-position: 0 -416px;
+}
+
+.icon-spirit2 {
+  background-position: 0 0;
+}
+
+.icon-spirit3 {
+  background-position: 0 -104px;
+}
+
+.icon-spirit4 {
+  background-position: 0 -312px;
+}
+
+.icon-spirit5 {
+  background-position: 0 -520px;
+}
+
+.icon-spirit6 {
+  background-position: 0 -208px;
+}
