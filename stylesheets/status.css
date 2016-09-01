@@ -1,15 +1,15 @@
 .status-sprite, .status-exam {
-  background: url('../images/status-sfb29666926.png') no-repeat;
+  background: url('../images/status.png') no-repeat;
 }
 
 .status-exam {
   background-position: 0 -140px;
 }
 .status-exam:hover, .status-exam.exam_hover, .status-exam.exam-hover {
-  background-position: 0 -420px;
+  background-position: 0 -280px;
 }
 .status-exam:target, .status-exam.exam_target, .status-exam.exam-target {
-  background-position: 0 -560px;
+  background-position: 0 -420px;
 }
 .status-exam:active, .status-exam.exam_active, .status-exam.exam-active {
   background-position: 0 0;

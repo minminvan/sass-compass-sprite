@@ -7,3 +7,5 @@
 >Compass Sprites:http://compass-style.org/reference/compass/utilities/sprites/
 
 >compass项目配置文件config.rb:http://www.sassplus.com/sass/152.html
+
+>去除sprite图片名字的hash值：https://segmentfault.com/q/1010000000308179
